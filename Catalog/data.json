@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "type": "Подвеска",
+        "model": "Dolce & Gabanna",
+        "price": "175 000",
+        "image": "images/catalog/dolce-gabana.jpg"
+    },
+    {
+        "id": 2,
+        "type": "Кольцо",
+        "model": "Dolce & Gabanna",
+        "price": "75 000",
+        "image": "images/catalog/D&G_ring.jpeg"
+    },
+    {
+        "id": 3,
+        "type": "Серьги",
+        "model": "DEWYLD",
+        "price": "85 000",
+        "image": "images/catalog/DEWYLD.jpeg"
+    },
+    {
+        "id": 4,
+        "type": "Подвеска",
+        "model": "Dolce & Gabanna",
+        "price": "175 000",
+        "image": "images/catalog/dolce-gabana.jpg"
+    },
+    {
+        "id": 5,
+        "type": "Подвеска",
+        "model": "Dolce & Gabanna",
+        "price": "100 000",
+        "image": "images/catalog/dolce-gabana.jpg"
+    },
+    {
+        "id": 6,
+        "type": "Кольцо",
+        "model": "Harry Winston",
+        "price": "145 000",
+        "image": "images/catalog/HW_ring.jpeg"
+    },
+    {
+        "id": 7,
+        "type": "Серьги",
+        "model": "CHAMPAGNE",
+        "price": "120 000",
+        "image": "images/catalog/champ.jpeg"
+    },
+    {
+        "id": 8,
+        "type": "Браслет",
+        "model": "Harry Winston",
+        "price": "95 000",
+        "image": "images/catalog/HW.jpeg"
+    }
+]
